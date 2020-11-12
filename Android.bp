@@ -6,6 +6,7 @@ android_app {
 	manifest: "app/src/main/AndroidManifest.xml",
 
 	product_specific: true,
+	sdk_version: "current",
 
 	static_libs: [
 	    "android-support-v7-appcompat",

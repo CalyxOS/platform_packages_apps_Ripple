@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a6f5e88c_8a8bd63c",
+        "filename": "app/src/main/java/info/guardianproject/ripple/PanicTileService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-12-01T19:51:13Z",
+      "side": 1,
+      "message": "From what I remember this won\u0027t work directly from here like this, that\u0027s why I had the `startActivityAndCollapse` above in the first place which is gone now.",
+      "revId": "55be65c79d51939d1f773cfa0dab3ab8940e0c98",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0",
+      "unresolved": true
+    }
+  ]
+}

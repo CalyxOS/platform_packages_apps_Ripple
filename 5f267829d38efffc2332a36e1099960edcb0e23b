@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dd46cf24_91aa5cd5",
+        "filename": "gradle/wrapper/gradle-wrapper.properties",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-12-05T02:17:15Z",
+      "side": 0,
+      "message": "Android Studio likely removed this.\nAOSP doesn\u0027t use this, still it\u0027d be nice to have.",
+      "revId": "5f267829d38efffc2332a36e1099960edcb0e23b",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0",
+      "unresolved": true
+    }
+  ]
+}

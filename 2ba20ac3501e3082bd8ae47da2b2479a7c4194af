@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d85623ba_7f9fe46f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-06-02T19:54:45Z",
+      "side": 1,
+      "message": "Since this has always been a proper hard fork, fine to do it this way (renaming it fully)",
+      "revId": "2ba20ac3501e3082bd8ae47da2b2479a7c4194af",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}

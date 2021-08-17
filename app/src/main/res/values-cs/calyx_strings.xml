@@ -2,4 +2,5 @@
 <resources>
     <string name="panic_tile_label">Talčítko paniky</string>
     <string name="settings_name">Nastavení paniky</string>
+    <string name="settings_summary"></string>
 </resources>

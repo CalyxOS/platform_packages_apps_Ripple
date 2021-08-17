@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d8ca968f_f651bbb4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-08-17T12:30:07Z",
+      "side": 1,
+      "message": "Same here, maybe because I did \"Force synchronization\" on weblate?\n\nThis _might_ be related to some addon somewhere.",
+      "revId": "5c226cc2e88f030b55c9fba91b7b8240f5815104",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}

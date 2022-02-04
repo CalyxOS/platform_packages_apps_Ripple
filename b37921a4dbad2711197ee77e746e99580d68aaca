@@ -16,6 +16,24 @@
       "message": "Has the change been deployed on hosted.weblate.org ?\n\nhttps://gitlab.com/CalyxOS/weblate/platform_packages_apps_panictrigger/-/tree/android11-qpr1 last update was 3w ago, could do a quick manual edit in \"DO NOT TRANSLATE\" though\n",
       "revId": "b37921a4dbad2711197ee77e746e99580d68aaca",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "19dbdc72_220e005b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-02-04T13:18:11Z",
+      "side": 1,
+      "message": "If you look at topic:translation, the latest commits from weblate use the new language codes so it must be deployed.",
+      "parentUuid": "b79e230f_6f2664cc",
+      "revId": "b37921a4dbad2711197ee77e746e99580d68aaca",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }

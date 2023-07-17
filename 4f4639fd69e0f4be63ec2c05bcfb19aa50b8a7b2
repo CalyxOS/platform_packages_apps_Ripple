@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "00222e8a_94889e39",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2023-07-17T09:36:37Z",
+      "side": 1,
+      "message": "Feels much better than implementing whole notification logic but need to test",
+      "revId": "4f4639fd69e0f4be63ec2c05bcfb19aa50b8a7b2",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}

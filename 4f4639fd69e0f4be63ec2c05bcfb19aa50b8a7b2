@@ -16,6 +16,41 @@
       "message": "Feels much better than implementing whole notification logic but need to test",
       "revId": "4f4639fd69e0f4be63ec2c05bcfb19aa50b8a7b2",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5ef88877_81389a3e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-17T12:33:57Z",
+      "side": 1,
+      "message": "I\u0027d disagree.\n\nThis _might_ be more fragile.\n\nHow is adding some simple notification logic here not easier?\n\n```\nif org.calyxos.panic installed (it should be but just check)\n    if getEnabledResponders contains org.fdroid.fdroid\n        show notification\n```",
+      "parentUuid": "00222e8a_94889e39",
+      "revId": "4f4639fd69e0f4be63ec2c05bcfb19aa50b8a7b2",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1d150a4b_a9f53cbf",
+        "filename": "app/src/main/AndroidManifest.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-17T12:33:57Z",
+      "side": 1,
+      "message": "This would mean any app can get list of responders, that may not be a good thing.",
+      "revId": "4f4639fd69e0f4be63ec2c05bcfb19aa50b8a7b2",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }

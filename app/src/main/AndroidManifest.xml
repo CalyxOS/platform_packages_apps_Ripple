@@ -10,6 +10,10 @@
           -->
 >
 
+    <permission
+        android:name="org.calyxos.ripple.permission.PROVIDER"
+        android:protectionLevel="normal" />
+
     <original-package android:name="info.guardianproject.ripple"/>
 
     <application
@@ -84,6 +88,12 @@
                 <action android:name="android.service.quicksettings.action.QS_TILE" />
             </intent-filter>
         </service>
+
+        <provider
+            android:name=".RippleContentProvider"
+            android:authorities="org.calyxos.ripple.provider"
+            android:exported="true"
+            android:permission="org.calyxos.ripple.permission.PROVIDER" />
     </application>
 
     <queries>

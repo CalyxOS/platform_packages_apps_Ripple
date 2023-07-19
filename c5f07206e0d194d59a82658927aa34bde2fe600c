@@ -18,6 +18,23 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d2a5d945_6312a015",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-07-19T22:09:27Z",
+      "side": 1,
+      "message": "Works.\n\nUpgrade to topic:system2user build, starting without it, and no interaction with Panic settings at any point. As expected, there is no notification.\n\nUpgrade to topic:system2user build, starting without it, with a visit to Panic settings via the Settings app prior to upgrade (no change, but just visiting it enables F-Droid for Panic, which is enough). As expected, there is a notification after upgrade.\n\nFresh install of topic:system2user build. As expected, there is no notification.",
+      "revId": "c5f07206e0d194d59a82658927aa34bde2fe600c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "680cf955_4e8a613e",

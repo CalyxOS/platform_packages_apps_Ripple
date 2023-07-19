@@ -20,6 +20,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "680cf955_4e8a613e",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-07-19T17:53:52Z",
+      "side": 1,
+      "message": "Can we name this PANIC_PREFERENCES or something (or at least, that style), and maybe same for the other final values? Otherwise, in handleOneShotNotification below, the local variable panicPreferences shadows this.",
+      "revId": "c5f07206e0d194d59a82658927aa34bde2fe600c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "f7bb3a56_71a6e416",
         "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
         "patchSetId": 6

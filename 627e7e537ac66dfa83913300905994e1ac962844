@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "63a52497_85ffb2fa",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-19T13:20:29Z",
+      "side": 1,
+      "message": "This could be a counter if we wanted to show it more than once, thus giving people less of a chance to miss it.\n\nIt shouldn\u0027t be too annoying given it\u0027ll only be shown to people actively using this functionality.\n\nSomething to consider, will discuss.",
+      "revId": "627e7e537ac66dfa83913300905994e1ac962844",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}

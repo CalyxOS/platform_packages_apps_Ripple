@@ -33,6 +33,24 @@
       "message": "getEnabledResponders seems to return getAllResponders if there are no responders enabled",
       "revId": "8c07581392e9b68bf7c3ed9340c3b5a864589448",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9dda04b7_b9acaf43",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-19T13:20:29Z",
+      "side": 1,
+      "message": "The screenshot didn\u0027t look too bad, will try on device too.",
+      "parentUuid": "6153a5eb_9af003ec",
+      "revId": "8c07581392e9b68bf7c3ed9340c3b5a864589448",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }

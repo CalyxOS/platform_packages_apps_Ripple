@@ -16,6 +16,23 @@
       "message": "Icon is a bit small but I assume that\u0027s fine?",
       "revId": "8c07581392e9b68bf7c3ed9340c3b5a864589448",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "99ebe31a_d7688d49",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2023-07-19T12:59:46Z",
+      "side": 1,
+      "message": "getEnabledResponders seems to return getAllResponders if there are no responders enabled",
+      "revId": "8c07581392e9b68bf7c3ed9340c3b5a864589448",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }

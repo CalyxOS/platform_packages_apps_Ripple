@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d1310f4b_13820dff",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2023-07-19T14:01:09Z",
+      "side": 1,
+      "message": "Patchset 5 doesn\u0027t stops showing notification on a clean install",
+      "revId": "627e7e537ac66dfa83913300905994e1ac962844",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "63a52497_85ffb2fa",

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6153a5eb_9af003ec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2023-07-19T12:41:53Z",
+      "side": 1,
+      "message": "Icon is a bit small but I assume that\u0027s fine?",
+      "revId": "8c07581392e9b68bf7c3ed9340c3b5a864589448",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}

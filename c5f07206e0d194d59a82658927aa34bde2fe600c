@@ -35,6 +35,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c4572cf4_0e0a6ab5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-19T22:32:52Z",
+      "side": 1,
+      "message": "\u003e with a visit to Panic settings via the Settings app prior to upgrade (no change, but just visiting it enables F-Droid for Panic, which is enough)\n\nSo just launching Settings -\u003e Security -\u003e Panic enabled it? That shouldn\u0027t be the case, we wanted F-Droid to be explicitly confirmed as a receiver.\n\nThere\u0027s two lists\n\n1. Apps which can handle ripple\u0027s panic trigger \u003c- What it sounds like you noticed\n2. Apps which the user wants to and has confirmed to do \u003c- What we actually want\n\n\nHowever, if that\u0027s not easily possible, no big deal, this sounds fine.",
+      "parentUuid": "d2a5d945_6312a015",
+      "revId": "c5f07206e0d194d59a82658927aa34bde2fe600c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "680cf955_4e8a613e",

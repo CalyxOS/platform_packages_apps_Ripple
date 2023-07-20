@@ -98,6 +98,24 @@
       "parentUuid": "63a52497_85ffb2fa",
       "revId": "627e7e537ac66dfa83913300905994e1ac962844",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fb1de419_0f316e18",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2023-07-20T07:57:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "54fcf051_abf54d69",
+      "revId": "627e7e537ac66dfa83913300905994e1ac962844",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }

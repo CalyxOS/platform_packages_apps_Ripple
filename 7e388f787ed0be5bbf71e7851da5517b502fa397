@@ -35,6 +35,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "f0db83e2_eca2469b",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 10
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2023-07-20T13:31:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6a5c8399_7fb4290d",
+      "revId": "7e388f787ed0be5bbf71e7851da5517b502fa397",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "0e0e105e_d75e19ed",
@@ -52,6 +70,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ef23855d_b43e6eb8",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 10
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2023-07-20T13:31:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "0e0e105e_d75e19ed",
+      "revId": "7e388f787ed0be5bbf71e7851da5517b502fa397",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f0197efb_48e67897",
@@ -65,6 +101,24 @@
       "writtenOn": "2023-07-20T13:27:20Z",
       "side": 1,
       "message": "Could this be moved up out of the condition, and maybe renamed extras, with the condition becoming `if (extras !\u003d null)`?",
+      "revId": "7e388f787ed0be5bbf71e7851da5517b502fa397",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ee558d06_e530ad8b",
+        "filename": "app/src/main/java/org/calyxos/ripple/SettingsActivity.java",
+        "patchSetId": 10
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2023-07-20T13:31:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f0197efb_48e67897",
       "revId": "7e388f787ed0be5bbf71e7851da5517b502fa397",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }

@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "65b44cb9_589e201a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 10
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-07-20T13:27:20Z",
+      "side": 1,
+      "message": "Looks good to me apart from a couple of minor things.",
+      "revId": "7e388f787ed0be5bbf71e7851da5517b502fa397",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6a5c8399_7fb4290d",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 10
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-07-20T13:27:20Z",
+      "side": 1,
+      "message": "Nit: For further clarity, rename to EXTRA_FROM_NOTIFICATION?",
+      "revId": "7e388f787ed0be5bbf71e7851da5517b502fa397",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0e0e105e_d75e19ed",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 10
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-07-20T13:27:20Z",
+      "side": 1,
+      "message": "Nit: Rename to e.g. ONE_SHOT_MIGRATION_NOTIFICATION_KEY?\n\nJust something in the usual caps/underscore style for constants. For preference keys they sometimes start or end with KEY and/or PREF but they don\u0027t have to.\n\nOtherwise I find myself looking around like \"where was this set?\" when it\u0027s only a constant.",
+      "revId": "7e388f787ed0be5bbf71e7851da5517b502fa397",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f0197efb_48e67897",
+        "filename": "app/src/main/java/org/calyxos/ripple/SettingsActivity.java",
+        "patchSetId": 10
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-07-20T13:27:20Z",
+      "side": 1,
+      "message": "Could this be moved up out of the condition, and maybe renamed extras, with the condition becoming `if (extras !\u003d null)`?",
+      "revId": "7e388f787ed0be5bbf71e7851da5517b502fa397",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}

@@ -70,6 +70,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "2506b02b_fde4ad86",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2023-07-20T06:46:06Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "680cf955_4e8a613e",
+      "revId": "c5f07206e0d194d59a82658927aa34bde2fe600c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f7bb3a56_71a6e416",
@@ -83,6 +101,24 @@
       "writtenOn": "2023-07-19T17:51:14Z",
       "side": 1,
       "message": "Are these swapped? The sharedPreferences variable represents panicPreferences.xml, and the panicPreferences variable represents info.guardianproject.panic.PanicTrigger.ENABLED.xml. This is pretty confusing.",
+      "revId": "c5f07206e0d194d59a82658927aa34bde2fe600c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea667a07_262aeda1",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2023-07-20T06:46:06Z",
+      "side": 1,
+      "message": "Renamed variables to be more clear",
+      "parentUuid": "f7bb3a56_71a6e416",
       "revId": "c5f07206e0d194d59a82658927aa34bde2fe600c",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }

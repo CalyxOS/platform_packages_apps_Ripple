@@ -22,6 +22,30 @@
       },
       "revId": "0742a780ba33f2f888b75928c4147621b9d8648a",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5ccd3e60_2944da91",
+        "filename": "app/src/main/AndroidManifest.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2023-10-11T18:38:43Z",
+      "side": 1,
+      "message": "Looks like it won\u0027t need to",
+      "parentUuid": "51c055ae_0c03ce61",
+      "range": {
+        "startLine": 75,
+        "startChar": 38,
+        "endLine": 75,
+        "endChar": 88
+      },
+      "revId": "0742a780ba33f2f888b75928c4147621b9d8648a",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }

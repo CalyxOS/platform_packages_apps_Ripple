@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a6623572_1e40a3e5",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-01-24T21:54:49Z",
+      "side": 1,
+      "message": "Should update this with a specific URL.",
+      "revId": "a892974b247ce7c5411245a63bd3a714941faa58",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d578baa0_d5b0c69a",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-01-24T21:54:49Z",
+      "side": 1,
+      "message": "These are the correct product names, right? This check works when testing with \"bluejay\" instead.",
+      "revId": "a892974b247ce7c5411245a63bd3a714941faa58",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}

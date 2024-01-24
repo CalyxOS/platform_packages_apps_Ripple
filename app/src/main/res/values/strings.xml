@@ -25,4 +25,10 @@
     <string name="panic_channel_desc">Notifications regarding general actions &amp; recommendations</string>
     <string name="discover_panic_title">Discover new Panic responder app</string>
     <string name="discover_panic_desc">Configure apps to uninstall on panic in this new app. Previously configured via F-Droid.</string>
+
+    <string name="update_info_channel_title">Update information</string>
+    <string name="update_info_channel_desc">Notifications with important details about upcoming updates</string>
+    <string name="update_info_title">CalyxOS Update information</string>
+    <string name="update_info_desc">Android 14, Face Unlock news</string>
+    <string name="update_info_desc_long">Android 14 update - CalyxOS 5.4.0 will be available for your device soon. However, Face Unlock will no longer be available. Tap for more information.</string>
 </resources>

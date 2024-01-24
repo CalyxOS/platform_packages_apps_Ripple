@@ -37,6 +37,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "9bd24cc5_b493d0be",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-01-24T22:04:36Z",
+      "side": 1,
+      "message": "(Doesn\u0027t exist yet)",
+      "parentUuid": "a6623572_1e40a3e5",
+      "revId": "a892974b247ce7c5411245a63bd3a714941faa58",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d578baa0_d5b0c69a",
         "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
         "patchSetId": 1

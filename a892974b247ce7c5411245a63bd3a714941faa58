@@ -3,6 +3,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "13a74302_9c7d1892",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-01-24T21:56:48Z",
+      "side": 1,
+      "message": "Works when testing in 14 for bluejay (should be same in 13), but needs actual testing in 13.",
+      "revId": "a892974b247ce7c5411245a63bd3a714941faa58",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "a6623572_1e40a3e5",
         "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
         "patchSetId": 1

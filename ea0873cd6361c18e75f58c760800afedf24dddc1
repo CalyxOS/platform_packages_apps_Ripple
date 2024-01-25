@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e0af7b86_76554110",
+        "filename": "app/src/main/res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-01-25T05:44:32Z",
+      "side": 1,
+      "message": "It may or may not end up being 5.4.0, but we should know - can just build both one after the other.",
+      "revId": "ea0873cd6361c18e75f58c760800afedf24dddc1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}

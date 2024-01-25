@@ -68,6 +68,24 @@
       "message": "These are the correct product names, right? This check works when testing with \"bluejay\" instead.",
       "revId": "a892974b247ce7c5411245a63bd3a714941faa58",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a712a8d_40e7406b",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-01-25T05:42:54Z",
+      "side": 1,
+      "message": "Yes. And well, in theory it doesn\u0027t matter - no other device would get this build anyways.",
+      "parentUuid": "d578baa0_d5b0c69a",
+      "revId": "a892974b247ce7c5411245a63bd3a714941faa58",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }

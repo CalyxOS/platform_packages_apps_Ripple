@@ -53,6 +53,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "98ade4c9_ff31858e",
+        "filename": "app/src/main/java/org/calyxos/ripple/BootCompletedReceiver.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-01-25T05:43:36Z",
+      "side": 1,
+      "message": "Generic URL added - we\u0027ll just setup a redirect when ready.",
+      "parentUuid": "9bd24cc5_b493d0be",
+      "revId": "a892974b247ce7c5411245a63bd3a714941faa58",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d578baa0_d5b0c69a",

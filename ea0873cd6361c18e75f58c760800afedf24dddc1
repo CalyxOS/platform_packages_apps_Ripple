@@ -3,6 +3,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "fff4d760_91a88f8c",
+        "filename": "app/src/main/AndroidManifest.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2024-01-27T08:10:15Z",
+      "side": 1,
+      "message": "We are not handling intents within the app but opening the browser. This might not be required.",
+      "range": {
+        "startLine": 110,
+        "startChar": 0,
+        "endLine": 114,
+        "endChar": 17
+      },
+      "revId": "ea0873cd6361c18e75f58c760800afedf24dddc1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "e0af7b86_76554110",
         "filename": "app/src/main/res/values/strings.xml",
         "patchSetId": 2

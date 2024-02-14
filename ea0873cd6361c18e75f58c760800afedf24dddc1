@@ -24,6 +24,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0c4c9488_cfa55823",
+        "filename": "app/src/main/AndroidManifest.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-02-14T17:14:46Z",
+      "side": 1,
+      "message": "Yes, this is the queries section so I thought it would be needed for the app to find the activity for the browser, but from testing just now, it looks like it works fine without it. I\u0027m still not sure why, but since it works, I removed it.",
+      "parentUuid": "fff4d760_91a88f8c",
+      "range": {
+        "startLine": 110,
+        "startChar": 0,
+        "endLine": 114,
+        "endChar": 17
+      },
+      "revId": "ea0873cd6361c18e75f58c760800afedf24dddc1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e0af7b86_76554110",
@@ -54,6 +78,42 @@
       "writtenOn": "2024-02-14T16:42:51Z",
       "side": 1,
       "message": "5.5.0, and around March 8 is out raget, so how about:\n\nAndroid 14 update - CalyxOS 5.5.0 will be available in the second week of March. However, Face Unlock will no longer be available. Tap for more information.",
+      "revId": "ea0873cd6361c18e75f58c760800afedf24dddc1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3f29c629_6c1d4059",
+        "filename": "app/src/main/res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-02-14T17:14:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1cdf534e_02684775",
+      "revId": "ea0873cd6361c18e75f58c760800afedf24dddc1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dd22b663_a99ddf38",
+        "filename": "app/src/main/res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-02-14T17:14:46Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "e0af7b86_76554110",
       "revId": "ea0873cd6361c18e75f58c760800afedf24dddc1",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }

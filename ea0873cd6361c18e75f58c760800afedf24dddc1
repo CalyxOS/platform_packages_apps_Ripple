@@ -39,6 +39,23 @@
       "message": "It may or may not end up being 5.4.0, but we should know - can just build both one after the other.",
       "revId": "ea0873cd6361c18e75f58c760800afedf24dddc1",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1cdf534e_02684775",
+        "filename": "app/src/main/res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-02-14T16:42:51Z",
+      "side": 1,
+      "message": "5.5.0, and around March 8 is out raget, so how about:\n\nAndroid 14 update - CalyxOS 5.5.0 will be available in the second week of March. However, Face Unlock will no longer be available. Tap for more information.",
+      "revId": "ea0873cd6361c18e75f58c760800afedf24dddc1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }

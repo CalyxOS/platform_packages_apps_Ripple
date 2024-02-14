@@ -72,6 +72,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b98d4732_4c451903",
+        "filename": "app/src/main/AndroidManifest.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-02-14T21:46:11Z",
+      "side": 1,
+      "message": "Oh right, that looks like where I got it from. But I wasn\u0027t reading carefully enough. We don\u0027t need to know if there\u0027s a specific browser available or if there\u0027s at least one. We just want to open a link. So we\u0027re good without it.",
+      "parentUuid": "712d9105_78ce9abf",
+      "range": {
+        "startLine": 110,
+        "startChar": 0,
+        "endLine": 114,
+        "endChar": 17
+      },
+      "revId": "ea0873cd6361c18e75f58c760800afedf24dddc1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e0af7b86_76554110",

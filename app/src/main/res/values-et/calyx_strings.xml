@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="settings_name">Paanika seaded</string>
+    <string name="panic_tile_label">Paanikanupp</string>
+    <string name="settings_summary">Seadista reaktsioon paanikanupule.</string>
+</resources>
